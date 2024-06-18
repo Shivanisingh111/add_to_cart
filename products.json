@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" 01 CHAIR",
+        "price": 4200,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" 02 CHAIR",
+        "price": 4250,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" 03 CHAIR",
+        "price": 4290,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" 04 CHAIR",
+        "price": 4200,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" 05 CHAIR",
+        "price": 4300,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" 06 CHAIR",
+        "price": 5200,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" 07 CHAIR",
+        "price": 5300,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" 08 CHAIR",
+        "price": 5500,
+        "image": "image/8.png"
+    }
+
+]
